@@ -1,0 +1,51 @@
+header {
+    background-image: url("hdbgimg.jpg");
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding-top: 180px;
+    padding-bottom: 30px;
+}
+
+#intro {
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+}
+
+ul {
+    margin-top:50px;
+    list-style-type: none;
+}
+
+li {
+    color: white;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+div{
+    background-color: green;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+hr.foothr {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer {
+    background-color: yellow;
+    margin-top: 20px;
+    padding-left: 80px;
+}
